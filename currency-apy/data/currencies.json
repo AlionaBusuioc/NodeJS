@@ -1,0 +1,22 @@
+[
+    {
+        "code":"EUR",
+        "name": "Euro",
+        "value": 19.4318
+    },
+    {
+        "code":"USD",
+        "name": "Dolar S.U.A.",
+        "value": 17.3104
+    },
+    {
+        "code":"RUB",
+        "name": "Rubla ruseasca",
+        "value": 0.2656
+    },
+    {
+        "code":"RON",
+        "name": "Leu romanesc",
+        "value": 4.0831
+    }
+]
